@@ -16,4 +16,4 @@ for (int i = 0; i < array.Length; i++)
 }
 
 Console.WriteLine("[{0}]", String.Join(",", array));  // Для проверки
-Console.WriteLine("Сумма четных чисел = "+sum);
+Console.WriteLine("Количество четных чисел = "+sum);
